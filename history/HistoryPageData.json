@@ -15,35 +15,34 @@
   ],
   "company": [
     {
+      "logo": "CompanySina.png",
+      "title": "Sina Communications Co.",
+      "detail": "2020-Now",
+      "lightTags": ["Design Lead", "UI/UX Designer", "Graphic Designer"]
+    },
+    {
       "logo": "CompanyHinava.png",
       "title": "Hinava Smart Home Co.",
       "detail": "2017-2020",
       "lightTags": ["Graphic Designer"]
     },
     {
-      "logo": "UniversityIUST.png",
-      "title": "Iran University Of Science And Technology",
-      "detail": "2013-2016",
-      "darkTags": ["Urban Design", "Master Of Art"],
-      "lightTags": ["Graphic Designer"]
+      "logo": "CompanyArseh.png",
+      "title": "Arseh Consulting Engineers Co.",
+      "detail": "2014-2017",
+      "darkTags": ["Urban Designer", "Project Manager"]
     },
     {
-      "logo": "UniversityFUM.png",
-      "title": "Ferdowsi University Of Mashhad",
-      "detail": "2007-2012",
-      "darkTags": ["Urban Development Engineering", "Bachelor Of Art"]
+      "logo": "CompanyFajr.png",
+      "title": "Fajr-e Tosee' Consulting Engineers Co.",
+      "detail": "2013-2014",
+      "darkTags": ["Urban Designer"]
     },
     {
-      "logo": "UniversityIUST.png",
-      "title": "Iran University Of Science And Technology",
-      "detail": "2013-2016",
-      "darkTags": ["Urban Design", "Master Of Art"]
-    },
-    {
-      "logo": "UniversityFUM.png",
-      "title": "Ferdowsi University Of Mashhad",
-      "detail": "2007-2012",
-      "darkTags": ["Urban Development Engineering", "Bachelor Of Art"]
+      "logo": "CompanyHostPano.png",
+      "title": "Host Pano Co.",
+      "detail": "2009-2010",
+     "lightTags": ["Graphic Designer"]
     }
   ],
   "freelance": [
