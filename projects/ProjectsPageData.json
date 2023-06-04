@@ -1,0 +1,314 @@
+[
+  {
+    "title": "NMS Web Application",
+    "category": "1",
+    "folder": "1",
+    "numberOfImages": 4,
+    "detail": "NMS Stands For Network Management System And It Is An Application Used In Telecommunication Systems To Manage And Monitor Network Performance. NMS Provides A Centralized Platform To Manage Various Network Components Such As Routers, Switches, Servers, And Other Devices. It Helps Network Administrators To Identify And Troubleshoot Potential Issues Before They Become Major Problems. NMS Also Enables Administrators To Configure And Optimize Network Settings, Allocate Bandwidth Resources, And Implement Security Measures. In Summary, NMS Is An Essential Tool For Maintaining The Reliability And Efficiency Of Telecommunication Networks. In The Redesign Of This Application, I Modified Its Chaotic And Complicated UX By Going Past Its Old And Problematic Design, And In Its Appearance, I Tried To Design Its UI In A Minimal And Attractive Way.",
+    "application": "Adobe XD"
+  },
+  {
+    "title": "Petlaza",
+    "category": "1",
+    "folder": "2",
+    "numberOfImages": 3,
+    "detail": "Petlaza Application Is A Social Network Based On Interest In Animals. In This Application, Users Who Have Pets Can Manage Life With Their Animals In Different Ways. They Can Find Users With Common Interests, Make Appointments Or Manage Their Communities With Different Filters. In Addition, There Are Other Features That Make The Software Attractive. For Example, Users Can, In Addition To Uploading Their Animal's Medical Records In The Software, Identify All Nearby Veterinarians With One Click. Petlaza Users Can Find Their Friends Like A Social Network And Build Their Communities Based On Common Interests.",
+    "application": "Adobe XD"
+  },
+  {
+    "title": "Planner Web Application",
+    "category": "1",
+    "folder": "3",
+    "numberOfImages": 2,
+    "detail": "This application is one of the series of telecommunication applications designed and developed by Sina Company. In general, its use is different from the NMS program, and it focuses on planning the networks that we want to use in the NMS. So, in a way, this program can be functionally a prerequisite for NMS.",
+    "application": "Adobe XD"
+  },
+  {
+    "title": "Qolop",
+    "category": "1",
+    "folder": "4",
+    "numberOfImages": 2,
+    "detail": "Qolop is an application for ordering drinks and fresh juices. With this application, we can order all kinds of fruit juices, cocktails, shakes and other drinks from Qolop company wherever you are in the city. It is possible to add different addresses, and by using a user-friendly design, you can manage your orders in a very simple and smooth way, and you can know the status of your order at any time.",
+    "application": "Figma"
+  },
+  {
+    "title": "OLT Web Application",
+    "category": "1",
+    "folder": "5",
+    "numberOfImages": 0,
+    "detail": "This application, which is one of the series of applications designed by Sina Company in the field of telecommunications, is very functionally related to NMS. In fact, after we manage the network in the NMS transmission product, here we try to complete this network management by managing the optical line terminals.",
+    "application": "Adobe XD"
+  },
+  {
+    "title": "IMS Web Application",
+    "category": "1",
+    "folder": "6",
+    "numberOfImages": 1,
+    "detail": "This application, which is one of the series of applications designed by Sina company in the field of telecommunications, is a platform design for the possibility of sending media through SMS.",
+    "application": "Adobe XD"
+  },
+  {
+    "title": "HomeDeco Website",
+    "category": "1",
+    "folder": "7",
+    "numberOfImages": 2,
+    "detail": "HomeDeco is a website for a decoration design and interior architecture company. On this website, there are portfolios, scientific articles and the possibility of ordering. The design of this website was done on Webflow website.",
+    "application": "Webflow"
+  },
+  {
+    "title": "Sina Automation System",
+    "category": "1",
+    "folder": "8",
+    "numberOfImages": 1,
+    "detail": "Office automation systems are software that automate repetitive office tasks and correspondence workflows in organizations. These softwares can be used to manage check-in and check-out times, lunch reservations in the company, office correspondence, archives, letters, all kinds of organizational documents, users, tasks and tasks, and the circulation of documents between them. At Sina Company, we have designed an application for this purpose, which has tried to make the dry environment attractive and practical with a user-friendly design.",
+    "application": "Adobe XD"
+  },
+  {
+    "title": "Hinava Website",
+    "category": "1",
+    "folder": "9",
+    "numberOfImages": 2,
+    "detail": "Hinava is a company that manufactures smart home products. In designing its website, I tried to focus on the ease of viewing and purchasing products by customers with a simple user interface. In some pages, I designed the process of using the products in the form of scenarios so that the most unfamiliar site audience with the concept of smart home can learn their use.",
+    "application": "Adobe XD"
+  },
+  {
+    "title": "Sina Communications",
+    "category": "2",
+    "folder": "1",
+    "numberOfImages": 11,
+    "detail": "Sina Company is a leading and active company in the field of telecommunications, which is a designer and manufacturer of optical fiber transmission devices in Iran. In order to manage this active system, applications and super-applications have been designed, each of which has a specific application.\nAfter I joined Sina Company as a design lead, in addition to designing the company's applications, the idea came up that we could differentiate it from other telecommunication companies by redesigning the company's organizational identity, which are generally very poor in design and visual identity. They are old fashioned. For this purpose, all visual products of the company were redesigned. From logo to office set, and from applications to company decoration. All this long process was done with the aim of making a modern, minimal, attractive and youth-friendly design, while the telecommunication identity and serious character of Sina company can also be understood in the designs.\nFor this purpose, in designing the company's logo, I tried to design a special identity for Sina by showing the Morse code of the word ",
+    "application": ""
+  },
+  {
+    "title": "The corporate color of the company is blue and green. Dark Slate is a serious, strong and enveloping color reminiscent of coastal rocks in a dawn twilight, and olive green is stimulating, youthful and dynamic.\"",
+    "category": "",
+    "folder": "",
+    "numberOfImages": 5,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Winup",
+    "category": "2",
+    "folder": "2",
+    "numberOfImages": 2,
+    "detail": "Winup is a consulting company in the field of human resources management for client companies. In this company, the customers are companies that want human resources management to be done in their company, but they don't have the space or opportunity to hire employees, so they use Winup services as an outsourcer.\nIn the Winup logo, I have tried to create a bird in a completely minimal way with the letter W of the word Win in the concept of climbing and upgrading.\nI used purple and pistachio green in the corporate color of this company.",
+    "application": ""
+  },
+  {
+    "title": "Exwino",
+    "category": "2",
+    "folder": "3",
+    "numberOfImages": 2,
+    "detail": "Exwino is a social trading platform that focuses on creating a fantastic experience for their users to gain profit.\nIn designing the logo of Exwino company, I tried to design the infinity symbol using the form of E and X in the English alphabet to bring the concept of infinity together with these two letters. In addition, these two letters together are reminiscent of the word exchange in this business.",
+    "application": ""
+  },
+  {
+    "title": "Teyf Pardazan Roham",
+    "category": "2",
+    "folder": "4",
+    "numberOfImages": 3,
+    "detail": "Teyf Pardazan Roham, Ahang Tejarat Nikoo and Giti Faraz Atlas are three companies affiliated with a parent company, and I tried to have a common color in the design of their visual identity: coal color. These three companies operate in the field of mining in Iran and abroad.\nIn designing the logo of Raham company, I tried to design the shape of mines with the inspiration of topographical lines. The secondary color of this company is copper color. The office set of this company was also designed with these lines and colors.",
+    "application": ""
+  },
+  {
+    "title": "Mana Faraz",
+    "category": "2",
+    "folder": "5",
+    "numberOfImages": 1,
+    "detail": "In Mana Faraz company, with the existing logo, navy blue and cyan organizational colors were suggested, and its office set was designed in the concept of a special visual identity for this company.",
+    "application": ""
+  },
+  {
+    "title": "Cordon",
+    "category": "2",
+    "folder": "6",
+    "numberOfImages": 7,
+    "detail": "Cordon is a maison for designing women's clothing. In the design of the Cordon logo, all the letters of the word Cordon were designed using a similar spherical shape. Cedar green color was suggested for this business and all products related to packaging, tags, business cards, sales invoices, etc. were designed.",
+    "application": ""
+  },
+  {
+    "title": "Ahang Tejarat Nikoo",
+    "category": "2",
+    "folder": "7",
+    "numberOfImages": 3,
+    "detail": "Ahang Tejarat Nikoo, Teyf Pardazan Roham and Giti Faraz Atlas are three companies affiliated with a parent company, and I tried to have a common color in the design of their visual identity: coal color. These three companies operate in the field of mining in Iran and abroad.\nIn designing the Niko company logo, I tried to design the form of the word Nikoo in Farsi with the inspiration of coring lines and the shape of mountains and hills. The secondary color of this company is cedar green. The office set of this company was also designed with these lines and colors.",
+    "application": ""
+  },
+  {
+    "title": "Amen Capital",
+    "category": "2",
+    "folder": "8",
+    "numberOfImages": 3,
+    "detail": "Amen Health Investment Company focuses on the value chain of the new health industry in Iran and strives to rely on its available tools, including financial resources, access to a network of elites and professional advisors.\nThe company's investment strategies are based on the maturity of the companies, with the view of creating a value chain from seed stage to market leaders in the health industry.\nI reached the goal in designing the company logo in the most minimal way possible, using only a few lines. First, the shape of a window was designed inspired by the semantic identity of the Amen company name to increase hope for improvement in the treatment industry, and it was also designed using the full letter font of the word Amen in English.",
+    "application": ""
+  },
+  {
+    "title": "Mr. IPTV",
+    "category": "2",
+    "folder": "9",
+    "numberOfImages": 2,
+    "detail": "Mr. IPTV is an IPTV purchase platform in Iran. On this platform, you can watch many channels around the world for a fee.\nIn designing the logo of this company, I tried to use the shape of a man to strengthen the visual identity of this company by putting together the form of an antenna TV and the word IP.",
+    "application": ""
+  },
+  {
+    "title": "Baran Capital",
+    "category": "2",
+    "folder": "10",
+    "numberOfImages": 1,
+    "detail": "Baran Capital is a private equity company that invests in startups and small and medium-sized companies in Iran and the Middle East market.\nIn designing the logo of Baran Capital company, I tried to design the word rain (Baran in Persian) with some curved lines.",
+    "application": ""
+  },
+  {
+    "title": "Mehr Omid Jam",
+    "category": "2",
+    "folder": "11",
+    "numberOfImages": 1,
+    "detail": "In designing the logo of Mehr Omid Jam company, I tried to match the letters M, O and J in the English alphabet, which together mean wave in Farsi, to remind the shape of a wave.",
+    "application": ""
+  },
+  {
+    "title": "Giti Faraz Atlas",
+    "category": "2",
+    "folder": "12",
+    "numberOfImages": 3,
+    "detail": "Giti Faraz Atlas, Ahang Tejarat Nikoo and Teyf Pardazan Roham are three companies affiliated with a parent company, and I tried to have a common color in the design of their visual identity: coal color. These three companies operate in the field of mining in Iran and abroad.\nIn the design of the Giti company logo, I tried to design the form of the letter G in the English alphabet and the Farsi language at the same time, inspired by the shape of sea waves. The company's secondary color is ocean blue. The office set of this company was also designed with these lines and colors.",
+    "application": ""
+  },
+  {
+    "title": "Arseh",
+    "category": "2",
+    "folder": "13",
+    "numberOfImages": 1,
+    "detail": "Arseh is a company in Iran's mining sector, and in designing its logo and organizational identity, I tried to design the word Arseh in Farsi, inspired by the shape of mountains and hills. Navy color was also chosen as the corporate color of this company.",
+    "application": ""
+  },
+  {
+    "title": "RAK",
+    "category": "2",
+    "folder": "14",
+    "numberOfImages": 1,
+    "detail": "RAK is one of the most famous brands in the world in the field of ceramics. One of the largest ceramic rock dealerships in Iran, which is located in Sirjan city, needed to design its organizational identity to better differentiate its store and business. To achieve this goal, by distinguishing their organizational color and designing a special office set for them, a specific visual identity was designed for them.",
+    "application": ""
+  },
+  {
+    "title": "Techno Hub",
+    "category": "2",
+    "folder": "15",
+    "numberOfImages": 1,
+    "detail": "Technohub is a company in the field of communication between different companies in the field of technology.\nIn designing the logo of this company, I tried to make the letter H with two letters T in the English alphabet (one T, and one reversed T). So, in this logo, there are the letters T and H, which are in the word Technohub. To give more meaning to the concept of a hub, there is a color change at the junction of the letters to convey the concept of connection.",
+    "application": ""
+  },
+  {
+    "title": "Hinava Single Boxes.2",
+    "category": "3",
+    "folder": "1",
+    "numberOfImages": 8,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Hinava Starter Pack",
+    "category": "3",
+    "folder": "2",
+    "numberOfImages": 2,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Irancell Starter Pack",
+    "category": "3",
+    "folder": "3",
+    "numberOfImages": 4,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Hinava Single Boxes.1",
+    "category": "3",
+    "folder": "4",
+    "numberOfImages": 5,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Sina Brandbook",
+    "category": "3",
+    "folder": "5",
+    "numberOfImages": 1,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Sina Gift Pack",
+    "category": "3",
+    "folder": "6",
+    "numberOfImages": 3,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Hinava Brochure",
+    "category": "3",
+    "folder": "7",
+    "numberOfImages": 1,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Hinava Protector",
+    "category": "3",
+    "folder": "8",
+    "numberOfImages": 1,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Hinava Catalog",
+    "category": "3",
+    "folder": "9",
+    "numberOfImages": 1,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Behbod Laser Billboard",
+    "category": "3",
+    "folder": "10",
+    "numberOfImages": 2,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Hinava Pavilion",
+    "category": "3",
+    "folder": "11",
+    "numberOfImages": 2,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Hinava Exhibition Stand",
+    "category": "3",
+    "folder": "12",
+    "numberOfImages": 1,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Sina Cermony Stand",
+    "category": "3",
+    "folder": "13",
+    "numberOfImages": 1,
+    "detail": "",
+    "application": ""
+  },
+  {
+    "title": "Farmand Chocolates",
+    "category": "3",
+    "folder": "14",
+    "numberOfImages": 1,
+    "detail": "",
+    "application": ""
+  }
+]
