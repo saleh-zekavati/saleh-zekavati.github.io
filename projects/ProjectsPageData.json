@@ -5,7 +5,7 @@
     "folder": "1",
     "numberOfImages": 4,
     "detail": "NMS stands for network management system and it is an application used in telecommunication systems to manage and monitor network performance. NMS provides a centralized platform to manage various network components such as routers, switches, servers, and other devices. It helps network administrators to identify and troubleshoot potential issues before they become major problems. NMS also enables administrators to configure and optimize network settings, allocate bandwidth resources, and implement security measures. In summary, NMS is an essential tool for maintaining the reliability and efficiency of telecommunication networks. In the redesign of this application, I modified its chaotic and complicated UX by going past its old and problematic design, and in its appearance, I tried to design its UI minimally and attractively.",
-    "application": "Adobe XD"
+    "application": "Figma"
   },
   {
     "title": "Petlaza",
@@ -21,7 +21,7 @@
     "folder": "3",
     "numberOfImages": 2,
     "detail": "This application is one of the series of telecommunication applications designed and developed by Sina company. In general, its use differs from the NMS program, and it focuses on planning the networks we want to use in the NMS. So, in a way, this program can be functionally a prerequisite for NMS.",
-    "application": "Adobe XD"
+    "application": "Figma"
   },
   {
     "title": "Qolop",
@@ -37,7 +37,7 @@
     "folder": "5",
     "numberOfImages": 0,
     "detail": "This application, which is one of the series of applications designed by Sina company in the field of telecommunications, is a platform designed for the possibility of sending media through SMS.",
-    "application": "Adobe XD"
+    "application": "Figma"
   },
   {
     "title": "IMS Web Application",
@@ -45,7 +45,7 @@
     "folder": "6",
     "numberOfImages": 1,
     "detail": "This application, which is one of the series of applications designed by Sina company in the field of telecommunications, is a platform design for the possibility of sending media through SMS.",
-    "application": "Adobe XD"
+    "application": "Figma"
   },
   {
     "title": "HomeDeco Website",
