@@ -15,33 +15,39 @@
   ],
   "company": [
     {
+      "logo": "CompanyMuseum.png",
+      "title": "Suomen Moottoripyörämuseo",
+      "detail": "Mar 2026-Jun 2026",
+      "lightTags": ["Graphic Designer", "UI/UX Designer"]
+    },
+    {
       "logo": "CompanySina.png",
       "title": "Sina Communications Co.",
-      "detail": "2020-2024",
+      "detail": "Oct 2020-Dec 2024",
       "lightTags": ["Design Lead", "Product Designer", "UI/UX Designer"]
     },
     {
       "logo": "CompanyHinava.png",
       "title": "Hinava Smart Home Co.",
-      "detail": "2017-2020",
+      "detail": "Nov 2017-Oct 2020",
       "lightTags": ["Graphic Designer"]
     },
     {
       "logo": "CompanyArseh.png",
       "title": "Arseh Consulting Engineers Co.",
-      "detail": "2015-2017",
+      "detail": "Aug 2015-Nov 2017",
       "darkTags": ["Urban Designer", "Project Manager"]
     },
     {
       "logo": "CompanyFajr.png",
       "title": "Fajr-e Tosee' Consulting Engineers Co.",
-      "detail": "2014-2015",
+      "detail": "Jun 2014-Apr 2015",
       "darkTags": ["Urban Designer"]
     },
     {
       "logo": "CompanyHostPano.png",
       "title": "Host Pano Co.",
-      "detail": "2009-2010",
+      "detail": "Sep 2009-Jun 2010",
      "lightTags": ["Graphic Designer"]
     }
   ],
